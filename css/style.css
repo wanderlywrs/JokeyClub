@@ -1,0 +1,38 @@
+h1 {
+    border-bottom-style: inset;
+}
+
+h5 {
+    font-style: italic
+}
+
+pre {
+    font-style: italic;
+    font-size: 1.1em;
+}
+
+/* style.css */
+.box-aposta {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* A partir de 576px (equivale ao breakpoint "sm" do Bootstrap) */
+@media (max-width: 576px) {
+    .box-aposta {
+        width: 50%;
+    }
+
+    .inBox-apostas {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+/* A partir de 768px (equivale ao "md" do Bootstrap) */
+@media (min-width: 768px) {
+    .box-aposta {
+        width: 33.3333%;
+    }
+}
