@@ -59,7 +59,7 @@ Baseado no exercício proposto no livro:
 
 ## 🔗 Demonstração
 
-[🔎 Clique aqui para ver o projeto funcionando (se houver link online)](https://wanderlywrs.github.io/JokeyClub/)
+[🔎 Clique aqui para ver o projeto funcionando!](https://wanderlywrs.github.io/JokeyClub/)
 
 ---
 
